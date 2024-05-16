@@ -27,6 +27,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Compatibility.msg"
   "msg/Payload.msg"
   "msg/PendantIdgRaster.msg"
+  "msg/WolanIdgRaster.msg"
  )
 
 ament_export_dependencies(rosidl_default_runtime)
