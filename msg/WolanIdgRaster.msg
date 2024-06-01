@@ -1,3 +1,3 @@
 Compatibility compatibility
 Payload payload
-uint8[902] pixels
+uint8[<=1000] pixels
