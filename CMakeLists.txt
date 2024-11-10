@@ -30,6 +30,11 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/PendantIdgRaster.msg"
   "msg/WolanIdgRaster.msg"
   "msg/WolanExternalCmdRaster.msg"
+  "msg/WolanPlain.msg"
+  "msg/WolanTherapy.msg"
+  "msg/WolanCross.msg"
+  "msg/WolanBurst.msg"
+  "msg/WolanMode.msg"
   DEPENDENCIES
   "builtin_interfaces"
  )
