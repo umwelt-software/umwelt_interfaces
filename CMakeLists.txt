@@ -33,6 +33,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/WolanPlain.msg"
   "msg/WolanTherapy.msg"
   "msg/WolanCross.msg"
+  "msg/WolanCrossTimeTesting.msg"
   "msg/WolanBurst.msg"
   "msg/WolanMode.msg"
   DEPENDENCIES
